@@ -1,0 +1,125 @@
+body > h1{
+    font-family: arial;
+    text-align: justify;
+    color: rgb(0,195,255);
+    background: black;
+    padding: 20px;
+    margin-top: 0px;
+
+}
+
+.linkTitulo{
+    text-decoration: none;
+    color: white;
+}
+
+.linkTitulo:hover{
+    color: rgb(0, 195, 255);
+}
+
+.titulo2:hover{
+    color:white;
+}
+
+
+body > p {
+    font-family: arial;
+    text-align: justify;
+    color:black;
+    background:rgb(0, 195, 255);
+
+}
+body{
+    background: rgb(0,195,255);
+    margin: 0px;
+}
+.imagem{
+    margin-left : 20%;  
+    width: 250%;
+    margin-top: -20%;
+}
+.direita{
+    float: right;
+    margin-right: 25%;
+    width: 200px;
+    height: 400px;
+}
+
+.arno{
+   background: white;
+   width: 50%;
+   height: 100%;
+   margin-left: 15%;
+}
+
+.arno > p{
+    width: 50%;
+    padding: 10px;
+    text-align: justify;
+    
+}
+
+.chat{
+    background: white;
+    width: 100%;
+    height: 300px;
+    border:1px solid black;
+}
+
+.mensagens{
+    width: 100%;
+    height: 90%;
+}
+
+.campo > input{
+    width: 98%;
+    padding-bottom: 20px;
+}
+
+.campo{
+    padding: 3%;
+}
+
+.topo{
+    background: rgb(55, 32, 138);
+    text-align: center;
+    color: white;
+    padding: 50px;
+    border-bottom: 10px solid black;
+    font-size: 30px;
+}
+.menu{
+    list-style: none;
+    text-align: center;
+    background: gray;
+    padding: 15px;
+    margin-top: 0px;
+}
+.menu > li{
+    display: inline; 
+    padding: 10px;
+    
+}
+.menu > li > a{
+    text-decoration: none;
+    color: white;
+}
+.menu > li:hover{
+    border-top: 2px solid rgb(0, 195, 255);
+}
+footer{ 
+    background: rgb(22, 22, 22);
+    text-align: center;
+    color: white;
+    padding: 25px;
+    border-top: 10px solid black;
+    font-size: 11px;
+
+    .trbalho { 
+        background: rgb(22, 22, 22);
+        text-align: center;
+        color: white;
+        padding: 25px;
+        border-top: 10px solid black;
+        font-size: 11px;
+}
