@@ -167,4 +167,12 @@ footer{
     .arno > p {
         width: 90%;
     } 
+
+    .direita{
+        display: none;
+    }
+
+    iframe{
+        width: 100% !important;
+    }
 }
